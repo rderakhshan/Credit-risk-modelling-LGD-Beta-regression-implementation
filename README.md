@@ -1,1 +1,1 @@
-# rderakhshan-Credit-risk-modelling-LGD-Beta-regression-Readme
+# rderakhshan-Credit-risk-modelling-LGD-Beta-regression-implementation
